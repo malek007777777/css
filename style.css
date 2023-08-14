@@ -1,0 +1,19 @@
+nav{
+    display: flex;
+}
+li{
+    display: inline-flex;
+    margin: 20px;
+}
+img{
+    margin-right: 50%;
+}
+body{
+    background-color: rgb(9, 9, 95);
+    color:white;
+    font-family: roboto;
+
+}
+.c1{
+text-align: center;
+}
